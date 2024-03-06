@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to Programming",
+      "credit_time": 2,
+      "price": 99.99,
+      "details": "Learn the basics of programming using popular languages like Python and Java.",
+      "image": "https://i.ibb.co/Jr5WWtt/mohammad-rahmani-Fx34-Keq-IEw-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Web Development Bootcamp",
+      "credit_time": 6,
+      "price": 149.99,
+      "details": "Comprehensive training on HTML, CSS, JavaScript, and popular web frameworks.",
+      "image": "https://i.ibb.co/qBgwXGT/andy-holmes-webyw4-Ns-FPg-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Data Science Fundamentals",
+      "credit_time": 5,
+      "price": 129.99,
+      "details": "Explore the basics of data analysis, visualization, and machine learning.",
+      "image": "https://i.ibb.co/CmZ5stp/isaac-smith-6-En-TPv-PPL6-I-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Graphic Design Mastery",
+      "credit_time": 4,
+      "price": 119.99,
+      "details": "Unlock your creativity with in-depth lessons on graphic design principles and tools.",
+      "image": "https://i.ibb.co/8mH7ygN/emily-bernal-v9v-II5g-V8-Lw-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Mobile App Development",
+      "credit_time": 10,
+      "price": 139.99,
+      "details": "Build mobile apps for iOS and Android using Swift, Kotlin, and Flutter.",
+      "image": "https://i.ibb.co/tqZ7SM5/olaf-val-UTk9c-Xz-YWAg-unsplash.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Cybersecurity Essentials",
+      "credit_time": 4,
+      "price": 129.99,
+      "details": "Learn the fundamentals of cybersecurity, ethical hacking, and threat mitigation.",
+      "image": "https://i.ibb.co/6HxfQ8k/towfiqu-barbhuiya-Fn-A5p-Azqh-MM-unsplash.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Business Analytics Workshop",
+      "credit_time": 3,
+      "price": 79.99,
+      "details": "Gain insights into business data analytics, decision-making, and reporting.",
+      "image": "https://i.ibb.co/Y3LVM00/jason-goodman-Oalh2-Moj-Uuk-unsplash.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Public Speaking Mastery",
+      "credit_time": 1,
+      "price": 89.99,
+      "details": "Improve your public speaking skills, overcome anxiety, and captivate your audience.",
+      "image": "https://i.ibb.co/Kbb9knC/priscilla-du-preez-Q7w-Gvnbuwj0-unsplash.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Yoga and Mindfulness",
+      "credit_time": 2,
+      "price": 99.99,
+      "details": "Explore the benefits of yoga and mindfulness for physical and mental well-being.",
+      "image": "https://i.ibb.co/x7TDRpw/oksana-taran-x-B4-Ex-Gc-Uai0-unsplash.jpg"
+    }
+  ]
+  
